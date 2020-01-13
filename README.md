@@ -1,0 +1,1 @@
+This is Brittany's first git project where she followed all directions perfectly!
